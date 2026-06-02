@@ -1,2 +1,2 @@
-Day 1 LeetCode Solutions
+Day 1 LeetCode Solutions: 
 Array Basics
